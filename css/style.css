@@ -1,3 +1,26 @@
 * {
   box-sizing: border-box;
 }
+ul {
+  outline-style: auto;
+  width: fit-content;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+h1 {
+  font-size: 35px;
+}
+h2 {
+  font-size: 20px;
+}
+.meta ul{
+  outline-style: none;
+}
+.meta {
+  outline-style: auto;
+  width: fit-content;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
